@@ -18,6 +18,4 @@ I build Linux desktop stuff, mostly Rust and QML, driven by whatever annoys me e
 ![Tauri](https://img.shields.io/badge/Tauri-2b2118?style=flat-square&logo=tauri&logoColor=e0552b)
 ![Hyprland](https://img.shields.io/badge/Hyprland-2b2118?style=flat-square&logo=hyprland&logoColor=e0552b)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gakuseei&show_icons=true&hide_rank=true&bg_color=00000000&text_color=8a8177&title_color=e0552b&icon_color=e0552b&hide_border=true" alt="GitHub stats" width="440">
-
 If something here saved you time: [ko-fi.com/gakuseei](https://ko-fi.com/gakuseei)
